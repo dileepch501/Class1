@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ClassOneProo</string>
+
+    <string name="button1str">This is button 1</string>
+    <string name="button2str">This is Button 2</string>
+
+    <string name="button3str">This is button 3</string>
+    <string name="button4str">This is Button 4</string>
+
+</resources>
